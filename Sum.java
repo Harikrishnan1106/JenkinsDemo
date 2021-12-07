@@ -4,5 +4,6 @@ public class Sum{
    System.out.println("Add"+(a+b));
    System.out.println("Sub"+(a-b));
    System.out.println("Mul"+(a*b));
+   System.out.println("Div"+(a/b));
   }
 }
