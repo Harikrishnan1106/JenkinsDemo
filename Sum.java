@@ -3,5 +3,6 @@ public class Sum{
    int a=3,b=5;
    System.out.println("Add"+(a+b));
    System.out.println("Sub"+(a-b));
+   System.out.println("Mul"+(a*b));
   }
 }
